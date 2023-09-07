@@ -4,4 +4,4 @@ This repo contain my implementation of needle, a pytorch-like automatic differen
 
 The library includes automatic differentiation, optimization, data loaders, loss functions and modular layers.
 
-Please refer to [Example notebook](https://github.com/noronhaeyan/deep-learning-systems/blob/main/Example%20notebook.ipynb) for implementation details and usage of the needle library.
+Please refer to [example notebook](https://github.com/noronhaeyan/deep-learning-systems/blob/main/Example%20notebook.ipynb) for implementation details and usage of the needle library.
